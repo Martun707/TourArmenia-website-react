@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/TourArmenia-website-react/static/css/main.e861f59f.css",
+    "main.js": "/TourArmenia-website-react/static/js/main.34cbb6e4.js",
+    "static/js/787.94cd40b5.chunk.js": "/TourArmenia-website-react/static/js/787.94cd40b5.chunk.js",
+    "static/media/background.png": "/TourArmenia-website-react/static/media/background.07f73c6d9ba130c2b6c9.png",
+    "static/media/c1.jpg": "/TourArmenia-website-react/static/media/c1.b404424e71c19445140b.jpg",
+    "static/media/nap1.png": "/TourArmenia-website-react/static/media/nap1.7a54afb2f96588803d83.png",
+    "static/media/h1.jpg": "/TourArmenia-website-react/static/media/h1.fa6eb6d3c19a95d25eba.jpg",
+    "static/media/5.jpg": "/TourArmenia-website-react/static/media/5.7675ddceca6cb0e04bfd.jpg",
+    "static/media/6.jpg": "/TourArmenia-website-react/static/media/6.d8ced2df3774d4586acf.jpg",
+    "static/media/3.jpg": "/TourArmenia-website-react/static/media/3.26d27a8344af91666ce6.jpg",
+    "static/media/t2.jpg": "/TourArmenia-website-react/static/media/t2.348de615ff6a5d4ef877.jpg",
+    "static/media/1.jpg": "/TourArmenia-website-react/static/media/1.06f1c2fed7b4f3854e0a.jpg",
+    "static/media/2.jpg": "/TourArmenia-website-react/static/media/2.40da1eb4a791baa2dd25.jpg",
+    "static/media/4.jpg": "/TourArmenia-website-react/static/media/4.300849ffa15b95eeef85.jpg",
+    "static/media/t1.jpg": "/TourArmenia-website-react/static/media/t1.db8777d947bcb1d8d5db.jpg",
+    "static/media/t3.jpg": "/TourArmenia-website-react/static/media/t3.b56e5b24b9f78e25aeb8.jpg",
+    "static/media/about.jpg": "/TourArmenia-website-react/static/media/about.4c605a429d41aa447da3.jpg",
+    "static/media/nap2.jpg": "/TourArmenia-website-react/static/media/nap2.cb8d9b250d169ad472b2.jpg",
+    "static/media/nap3.jpg": "/TourArmenia-website-react/static/media/nap3.5caaa8c195266cd44048.jpg",
+    "static/media/nap4.jpg": "/TourArmenia-website-react/static/media/nap4.9b7829a1b04cf21404c6.jpg",
+    "index.html": "/TourArmenia-website-react/index.html",
+    "main.e861f59f.css.map": "/TourArmenia-website-react/static/css/main.e861f59f.css.map",
+    "main.34cbb6e4.js.map": "/TourArmenia-website-react/static/js/main.34cbb6e4.js.map",
+    "787.94cd40b5.chunk.js.map": "/TourArmenia-website-react/static/js/787.94cd40b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e861f59f.css",
+    "static/js/main.34cbb6e4.js"
+  ]
+}
